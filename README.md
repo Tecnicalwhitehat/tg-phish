@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/651863c2-6fed-4ca1-adb1-a32869769176)![image](https://github.com/user-attachments/assets/04fe3625-ddab-490c-93ed-7596f7216565)
 
 # telegram-EvilDropper
 
