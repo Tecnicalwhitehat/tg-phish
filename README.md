@@ -19,8 +19,8 @@ This repository demonstrates a vulnerability in Telegram where an attacker can r
 ### 🛠 Setup and Installation
 
 ```bash
-git clone --github url--
-cd Tg-Dropper
+git clone https://github.com/Tecnicalwhitehat/tg-phish.git
+cd tg-phish
 ```
 
 Now, edit the `tg.py` file using any text editor and fill in the required information:
