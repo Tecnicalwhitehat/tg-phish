@@ -1,4 +1,4 @@
-@https://github.com/Tecnicalwhitehat/tg-phish/blob/main/66a7a059adf88dd0ac0a739f_EvilVideo.jpg
+![image alt](https://github.com/Tecnicalwhitehat/tg-phish/blob/d2239a528f319dccee55fcdf3ebf28ae026ccc38/EvilVideo.jpg)
 # telegram-EvilDropper
 
 Telegram video (mp4) extension manipulation to redirect victims to malicious sites. In this POC, a Google Play Phishing Page is used as an example.
